@@ -14,7 +14,7 @@ The project includes:
 ---
 
 ## Dataset Information
-- [DownloadDataset](data/WA_Fn-UseC_-HR-Employee-Attrition.csv)
+- [DownloadDataset](WA_Fn-UseC_-HR-Employee-Attrition.csv)
 The dataset contains employee-related information such as:
 - Age
 - Gender
@@ -56,28 +56,28 @@ Most features show weak correlation, Strong positive correlations are observed b
 ## Sample Visualizations
 
 ### Overtime vs Attrition
-![Overtime](images/Overtime%20vs%20Attrition.png)
+![Overtime](Overtime%20vs%20Attrition.png)
 
 ### Attrition Distribution
-![Attrition](images/Attrition%20distribution.png)
+![Attrition](Attrition%20distribution.png)
 
 ### Age Distribution
-![Age](images/Age%20distribution.png)
+![Age](Age%20distribution.png)
 
 ### Gender vs Attrition
-![Gender](images/Gender%20vs%20Attrition.png)
+![Gender](Gender%20vs%20Attrition.png)
 
 ### Job vs Attrition
-![Job](images/Job%20vs%20Attrition.png)
+![Job](Job%20vs%20Attrition.png)
 
 ### Monthly Income Distribution
-![MonthlyIncome](images/Monthly%20Income%20distribution.png)
+![MonthlyIncome](Monthly%20Income%20distribution.png)
 
 ### Correlation Heatmap
-![Heatmap](images/Correlation%20Heatmap.png)
+![Heatmap](Correlation%20Heatmap.png)
 
 ### Model Comparision based on F1_score
-![Comparision](images/Model%20comparision%20based%20on%20F1_score.png)
+![Comparision](Model%20comparision%20based%20on%20F1_score.png)
 
 ---
 
